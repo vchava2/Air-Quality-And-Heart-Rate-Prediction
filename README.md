@@ -19,3 +19,5 @@ Following backend files were deployed on AWS EC2 instance:
 ## Credits
 
 https://github.com/HugoWang/IODetector
+
+https://github.com/vinayk011/FitBitWebApiIntegration
